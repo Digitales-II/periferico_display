@@ -3,7 +3,7 @@ IVERILOG        = iverilog
 RAM 			= ram
 SRC             = \
      $(TARGET).v  \
-	   $(RAM)/ram.v $(RAM)/Decoder_3to7.v\
+	   $(RAM)/ram.v\
 
 	 
 
